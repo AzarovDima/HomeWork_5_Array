@@ -1,0 +1,15 @@
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_5\HomeWork_5_Array\challenge_1\bin\Debug\net7.0\challenge_1.exe
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_5\HomeWork_5_Array\challenge_1\bin\Debug\net7.0\challenge_1.deps.json
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_5\HomeWork_5_Array\challenge_1\bin\Debug\net7.0\challenge_1.runtimeconfig.json
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_5\HomeWork_5_Array\challenge_1\bin\Debug\net7.0\challenge_1.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_5\HomeWork_5_Array\challenge_1\bin\Debug\net7.0\challenge_1.pdb
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_5\HomeWork_5_Array\challenge_1\obj\Debug\net7.0\challenge_1.csproj.AssemblyReference.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_5\HomeWork_5_Array\challenge_1\obj\Debug\net7.0\challenge_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_5\HomeWork_5_Array\challenge_1\obj\Debug\net7.0\challenge_1.AssemblyInfoInputs.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_5\HomeWork_5_Array\challenge_1\obj\Debug\net7.0\challenge_1.AssemblyInfo.cs
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_5\HomeWork_5_Array\challenge_1\obj\Debug\net7.0\challenge_1.csproj.CoreCompileInputs.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_5\HomeWork_5_Array\challenge_1\obj\Debug\net7.0\challenge_1.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_5\HomeWork_5_Array\challenge_1\obj\Debug\net7.0\refint\challenge_1.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_5\HomeWork_5_Array\challenge_1\obj\Debug\net7.0\challenge_1.pdb
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_5\HomeWork_5_Array\challenge_1\obj\Debug\net7.0\challenge_1.genruntimeconfig.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_5\HomeWork_5_Array\challenge_1\obj\Debug\net7.0\ref\challenge_1.dll
