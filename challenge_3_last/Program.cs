@@ -4,12 +4,18 @@
 
 Console.Write("Дан массив... ");
 
-int[] array = GetRandomArray(8, 1, 30);
+int[] array = GetRandomArray(10, -10, 20);
 int max = GetMaxNumber(array);
+int min = GetMinNumber(array);
+int result = GetResult();
 
 Console.WriteLine($"[{String.Join(", ", array)}]");
-Console.Write("Максимальное число в массиве - ");
+Console.Write("Максимальное число в массиве = ");
 Console.WriteLine(max);
+Console.Write("Минимальное число в массиве = ");
+Console.WriteLine(min);
+Console.Write("Разница между максимальным и минимальным = ");
+Console.WriteLine(result);
 
 int[] GetRandomArray(int size, int minValue, int maxValue)
 {
@@ -22,16 +28,35 @@ int[] GetRandomArray(int size, int minValue, int maxValue)
 
     return result;
 }
-
 int GetMaxNumber(int[] array)
 {
-    int maxNumber = 0;
+    int maxNumber = array[0];
     int i = 0;
     int lenght = array.Length;
     while (i < lenght)
     {
         if (array[i] > maxNumber) maxNumber = array[i];
+
         i++;
     }
     return maxNumber;
+}
+int GetMinNumber(int[] array)
+{
+    int minNumber = array[0];
+    int i = 0;
+    int lenght = array.Length;
+    while (i < lenght)
+    {
+        if (array[i] < minNumber) minNumber = array[i];
+
+        i++;
+    }
+    return minNumber;
+}
+
+int GetResult()
+{
+    int result = max - min;
+    return result;
 }
