@@ -5,7 +5,7 @@
 
 Console.Write("Имеется массив... ");
 
-int[] array = GetRandomArray(9, -25, 30);
+int[] array = GetRandomArray(7, -25, 30);
 int sum = GetSumUnevenNumber(array);
 
 Console.WriteLine($"[{String.Join(", ", array)}]");
